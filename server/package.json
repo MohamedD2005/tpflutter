@@ -1,0 +1,13 @@
+{
+  "name": "my-app-contacts-api",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Local development API for the Flutter contacts app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "mongodb": "^6.17.0"
+  }
+}
